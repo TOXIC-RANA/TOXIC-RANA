@@ -39,13 +39,17 @@
 </p>
 
 ---
+### 📅 **GitHub Journey**
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined%20GitHub-%20$(date +%Y)-blue?style=for-the-badge&logo=github" alt="GitHub Join Date" />
+</p>
  
-### Top Usage Languages:
+### 📈 Top Usage Languages:
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOXIC-RANA&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
  
 ---
- ## My Github Stats:
+ ## 💫 My Github Stats:
  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-RANA&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad RANA GitHub status" />
