@@ -24,6 +24,13 @@
 <p align="center">Currently learning - node.js And html css JavaScript.</p>
 <p align="center">Currently working on - Private Projects</p>
  
+
+### 💻 **Tech Stack & Skills**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,github,git,vscode,figma" />
+</p>
+
+
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
   <a href="https://github.com/TOXIC-RANA/sim-Api.git" target="_blank">
