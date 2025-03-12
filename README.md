@@ -40,6 +40,21 @@
 
 ---
  
+### Top Usage Languages:
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOXIC-RANA&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+ 
+---
+ ## My Github Stats:
+ 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TOXIC-RANA&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad RANA GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TOXIC-RANA&theme=algolia" alt="TOXIC-RANA" />
+</p>
+ 
+---
 
 ### 💻 **Tech Stack & Skills**
 <p align="center">
