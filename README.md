@@ -41,7 +41,7 @@
 ---
 ### 📅 **GitHub Journey**
 <p align="center">
-  <img src="https://img.shields.io/badge/Joined%20GitHub-%20$(date +%Y)-blue?style=for-the-badge&logo=github" alt="GitHub Join Date" />
+  <img src="https://img.shields.io/badge/Joined%20GitHub-May%2012,%202022-blue?style=for-the-badge&logo=github" alt="GitHub Join Date" />
 </p>
  
 ### 📈 Top Usage Languages:
