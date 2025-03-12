@@ -19,10 +19,26 @@
  
 <h3 align="center">𝙼𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35¢er=true&vCenter=true&width=450&duration=1500&pause=1000&lines=𝙒𝘼𝙏𝘾𝙃𝙄𝙉𝙂+𝘼𝙉𝙄𝙈𝙀+𝙎𝙀𝙍𝙄𝙀𝙄'𝙎;𝙂𝙄𝙍𝙇𝙎;𝙇𝘼𝙍𝙉𝙄𝙉𝙂+𝘾𝙊𝘿𝙄𝙉𝙂;𝙏𝙝𝙖𝙩𝙨+𝙖𝙡𝙡" width="auto" height="35"/>to
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35¢er=true&vCenter=true&width=450&duration=1500&pause=1000&lines=𝙒𝘼𝙏𝘾𝙃𝙄𝙉𝙂+𝘼𝙉𝙄𝙈𝙀+𝙎𝙀𝙍𝙄𝙀𝙄'𝙎;𝙂𝙄𝙍𝙇𝙎;𝙇𝘼𝙍𝙉𝙄𝙉𝙂+𝘾𝙊𝘿𝙄𝙉𝙂;𝙏𝙝𝙖𝙩𝙨+𝙖𝙡𝙡" width="auto" height="35"/>
+
+---
+
+### 📚 **Currently Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-<p align="center">Currently learning - node.js And html css JavaScript.</p>
-<p align="center">Currently working on - Private Projects</p>
+
+---
+
+### 🔥 **Currently Working On**
+<p align="center">
+  <img src="https://img.shields.io/badge/Private_Projects-FF6F00?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
  
 
 ### 💻 **Tech Stack & Skills**
